@@ -3,7 +3,7 @@ const client = new Client({ intents: 513 });
 const smartestchatbot = require("smartestchatbot");
 const x = new smartestchatbot.Client();
 client.on("ready", () => {
-  console.log("Ready for chatting!| Bot by 0_0");
+  console.log("Ready for chatting!| Bot by yassin.x5");
 });
 client.on("message", async message => {
   // when client detects a message
