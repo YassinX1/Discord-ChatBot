@@ -1,7 +1,7 @@
 {
   "name": "chat-bot",
   "version": "1.0.0",
-  "description": "Hey im aG-Chat made by Yassin.x5",
+  "description": "Hey im Chatbot made by Yassin.x5",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -15,7 +15,7 @@
     "node": "14.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
+    "url": "https//hestahost.com"
   },
   "license": "MIT",
   "keywords": [
